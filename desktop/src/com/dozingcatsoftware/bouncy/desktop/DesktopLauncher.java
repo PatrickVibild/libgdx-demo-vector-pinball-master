@@ -26,6 +26,12 @@ public class DesktopLauncher {
 
 
 
+
+    static int return88() {
+        return 8;
+    }
+
+
 	static int returnis22() {
 		return 0;
 	}
