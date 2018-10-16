@@ -17,4 +17,7 @@ public class DesktopLauncher {
 	public static int returnfive(){
 		return 5;
 	}
+	public static int return4(){
+		return 4;
+	}
 }
