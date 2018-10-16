@@ -20,4 +20,8 @@ public class DesktopLauncher {
     static public int return4(){
         return 4;
     }
+
+    static public int returnSeven() {
+		return 7;
+	}
 }
