@@ -20,7 +20,7 @@ public class DesktopLauncher {
 
 
 
-	static int returnis() {
+	static int returnis2() {
 		return 0;
 	}
 
