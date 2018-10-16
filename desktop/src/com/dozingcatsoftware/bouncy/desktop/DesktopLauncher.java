@@ -17,19 +17,7 @@ public class DesktopLauncher {
 	static public int returnfive (){
 		return 5;
 	}
-	static int returnZero() {
-		return 0;
-	}
-    static int return8() {
-        return 8;
-    }
 
-
-
-
-    static int return88() {
-        return 8;
-    }
 
 
 	static int returnis22() {
