@@ -21,7 +21,4 @@ public class DesktopLauncher {
         return 4;
     }
 
-    static public int returnSeven() {
-		return 7;
-	}
 }
