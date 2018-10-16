@@ -26,4 +26,9 @@ public class DesktopLauncher {
 
 
 
+	static int returnis22() {
+		return 0;
+	}
+
+
 }
