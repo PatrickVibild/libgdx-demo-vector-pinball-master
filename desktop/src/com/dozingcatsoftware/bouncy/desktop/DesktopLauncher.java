@@ -10,7 +10,11 @@ public class DesktopLauncher {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
         config.title = "Vector Pinball";
         config.width = 480;
+
         config.height = 800;
 		new LwjglApplication(new Bouncy(), config);
+	}
+	public static int returnfive(){
+		return 5;
 	}
 }
