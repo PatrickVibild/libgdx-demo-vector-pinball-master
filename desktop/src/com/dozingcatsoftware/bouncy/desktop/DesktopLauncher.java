@@ -14,4 +14,8 @@ public class DesktopLauncher {
         config.height = 800;
 		new LwjglApplication(new Bouncy(), config);
 	}
+	static public int returnfive (){
+		return 5;
+	}
+
 }
